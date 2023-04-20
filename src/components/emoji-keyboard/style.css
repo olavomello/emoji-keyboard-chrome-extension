@@ -1,0 +1,18 @@
+.keyboard .key {
+  font-size: 2em;
+  box-shadow: 0 0 10px #00000024;
+  border: 1px solid #d0d0d0;
+  border-radius: 5px;
+  margin: 1px;
+  cursor: pointer;
+  background: #f0f0f0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.keyboard .key:hover {
+  border-color: #b0b0b0;
+  background: #f0f0f0;
+  transform: scale(1.2);
+}

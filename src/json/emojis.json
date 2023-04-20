@@ -1,0 +1,254 @@
+{
+  "data": [
+    {
+      "name": "Thumbs Up",
+      "emoji": "👍",
+      "shortcut": ":tu:"
+    },
+    {
+      "name": "Clapping Hands",
+      "emoji": "👏",
+      "shortcut": ":ch:"
+    },
+    {
+      "name": "Smiling Face with Sunglasses",
+      "emoji": "😎",
+      "shortcut": ":ss:"
+    },
+    {
+      "name": "Face with Rolling Eyes",
+      "emoji": "🙄",
+      "shortcut": ":fr:"
+    },
+    {
+      "name": "Raised Fist",
+      "emoji": "✊",
+      "shortcut": ":rf:"
+    },
+    {
+      "name": "Oncoming Fist",
+      "emoji": "👊",
+      "shortcut": ":of:"
+    },
+    {
+      "name": "Raised Hand",
+      "emoji": "✋",
+      "shortcut": ":rh:"
+    },
+    {
+      "name": "Victory Hand",
+      "emoji": "✌️",
+      "shortcut": ":vh:"
+    },
+    {
+      "name": "Waving Hand",
+      "emoji": "👋",
+      "shortcut": ":wh:"
+    },
+    {
+      "name": "Writing Hand",
+      "emoji": "✍️",
+      "shortcut": ":wr:"
+    },
+    {
+      "name": "Open Hands",
+      "emoji": "👐",
+      "shortcut": ":oh:"
+    },
+    {
+      "name": "Handshake",
+      "emoji": "🤝",
+      "shortcut": ":hs:"
+    },
+    {
+      "name": "Person Shrugging",
+      "emoji": "🤷",
+      "shortcut": ":ps:"
+    },
+    {
+      "name": "Flexed Biceps",
+      "emoji": "💪",
+      "shortcut": ":fb:"
+    },
+    {
+      "name": "Person Facepalming",
+      "emoji": "🤦",
+      "shortcut": ":pf:"
+    },
+    {
+      "name": "Red Heart",
+      "emoji": "❤️",
+      "shortcut": ":rh:"
+    },
+    {
+      "name": "Yellow Heart",
+      "emoji": "💛",
+      "shortcut": ":yh:"
+    },
+    {
+      "name": "Green Heart",
+      "emoji": "💚",
+      "shortcut": ":gh:"
+    },
+    {
+      "name": "Smiling Face with Heart-Eyes",
+      "emoji": "😍",
+      "shortcut": ":se:"
+    },
+    {
+      "name": "Smiling Face with Smiling Eyes",
+      "emoji": "😊",
+      "shortcut": ":ss:"
+    },
+    {
+      "name": "Thinking Face",
+      "emoji": "🤔",
+      "shortcut": ":tf:"
+    },
+    {
+      "name": "Flushed Face",
+      "emoji": "😳",
+      "shortcut": ":ff:"
+    },
+    {
+      "name": "Pensive Face",
+      "emoji": "😔",
+      "shortcut": ":pf:"
+    },
+    {
+      "name": "Expressionless Face",
+      "emoji": "😑",
+      "shortcut": ":ef:"
+    },
+    {
+      "name": "Unamused Face",
+      "emoji": "😒",
+      "shortcut": ":uf:"
+    },
+    {
+      "name": "Grinning Face",
+      "emoji": "😀",
+      "shortcut": ":gf:"
+    },
+    {
+      "name": "Smiling Face with Open Mouth and Smiling Eyes",
+      "emoji": "😄",
+      "shortcut": ":ss:"
+    },
+    {
+      "name": "Smiling Face with Open Mouth and Cold Sweat",
+      "emoji": "😅",
+      "shortcut": ":sc:"
+    },
+    {
+      "name": "Smiling Face with Open Mouth and Tightly-Closed Eyes",
+      "emoji": "😆",
+      "shortcut": ":st:"
+    },
+    {
+      "name": "Face with Tears of Joy",
+      "emoji": "😂",
+      "shortcut": ":ft:"
+    },
+    {
+      "name": "Rolling on the Floor Laughing",
+      "emoji": "🤣",
+      "shortcut": ":rl:"
+    },
+    {
+      "name": "Smiling Face",
+      "emoji": "🙂",
+      "shortcut": ":sf:"
+    },
+    {
+      "name": "Winking Face",
+      "emoji": "😉",
+      "shortcut": ":wf:"
+    },
+    {
+      "name": "Smiling Face with Smiling Eyes and Hand Covering Mouth",
+      "emoji": "🤭",
+      "shortcut": ":ss:"
+    },
+    {
+      "name": "Nerd Face",
+      "emoji": "🤓",
+      "shortcut": ":nf:"
+    },
+    {
+      "name": "Face with Medical Mask",
+      "emoji": "😷",
+      "shortcut": ":fm:"
+    },
+    {
+      "name": "Face with Thermometer",
+      "emoji": "🤒",
+      "shortcut": ":ft:"
+    },
+    {
+      "name": "Face with Head-Bandage",
+      "emoji": "🤕",
+      "shortcut": ":fh:"
+    },
+    {
+      "name": "Face with Monocle",
+      "emoji": "🧐",
+      "shortcut": ":fm:"
+    },
+    {
+      "name": "Smiling Cat with Heart-Eyes",
+      "emoji": "😻",
+      "shortcut": ":sc:"
+    },
+    {
+      "name": "Cat Face with Wry Smile",
+      "emoji": "😼",
+      "shortcut": ":cw:"
+    },
+    {
+      "name": "Cat Face with Tears of Joy",
+      "emoji": "😹",
+      "shortcut": ":ct:"
+    },
+    {
+      "name": "Cat Face with Heart-Eyes",
+      "emoji": "😻",
+      "shortcut": ":ce:"
+    },
+    {
+      "name": "Grinning Cat Face",
+      "emoji": "😺",
+      "shortcut": ":gc:"
+    },
+    {
+      "name": "Smiling Cat Face with Open Mouth",
+      "emoji": "😺",
+      "shortcut": ":so:"
+    },
+    {
+      "name": "Smiling Cat Face with Heart-Eyes",
+      "emoji": "😻",
+      "shortcut": ":sh:"
+    },
+    {
+      "name": "Pouting Cat Face",
+      "emoji": "😾",
+      "shortcut": ":pc:"
+    },
+    {
+      "name": "Crying Cat Face",
+      "emoji": "😿",
+      "shortcut": ":cc:"
+    },
+    {
+      "name" : "Praying",
+      "emoji": "🙏",
+      "shortcut": ":pr:"
+    },
+    {
+      "name" : "Punch",
+      "emoji": "👊",
+      "shortcut": ":pu:"
+    }
+  ]
+}
